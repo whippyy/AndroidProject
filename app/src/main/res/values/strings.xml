@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicSwipe</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="album_art">Album Art</string>
+    <string name="song_preview">Song Preview</string>
+    <string name="swipe_right_to_like">Swipe right to like</string>
+    <string name="swipe_left_to_pass">Swipe left to pass</string>
+    <string name="no_more_songs">No more songs! Check back later.</string>
+    <string name="loading_songs">Loading songs...</string>
+</resources>
